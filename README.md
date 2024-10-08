@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python, gaming, math, etc...**
 
-- 📫 How to reach me **dragonwind22052008@gmail.com **#inevercheckingmyemail
+- 📫 How to reach me **dragonwind22052008@gmail.com** #inevercheckingmyemail
 
 - 📄 Know about my experiences [Gaming Development with Unreal Engine 4 and Unity]
 
